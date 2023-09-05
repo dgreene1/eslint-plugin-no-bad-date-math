@@ -9,11 +9,7 @@
     "rule",
     "js-date-operation"
   ],
-  "main": "index.js",
-  "files": [
-    "index.js",
-    "rules/"
-  ],
+  "main": "dist/index.js",
   "scripts": {
     "test": "jest"
   },

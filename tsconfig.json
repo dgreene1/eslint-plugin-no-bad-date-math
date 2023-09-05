@@ -1,7 +1,9 @@
 {
   "compilerOptions": {
-    "module": "esnext",
+    "module": "es2015",
+    "target": "es6",
     "moduleResolution": "bundler",
-    "strict": true
+    "strict": true,
+    "outDir": "dist",
   }
 }
